@@ -1,0 +1,1 @@
+Return the 2 numbers in a given array if their sum is equal to a given number.
