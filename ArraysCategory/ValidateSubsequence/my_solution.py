@@ -1,4 +1,4 @@
-# O(n) time | O(1) space
+# O(n^2) time | O(1) space
 def isValidSubsequence(array, sequence):
     curr_index = -1
     for elem in sequence:
