@@ -1,2 +1,2 @@
 # AlgoExpertExercises
-Solving every problem given by AlgoExpert.
+Solving every problem given by AlgoExpert in Python.
