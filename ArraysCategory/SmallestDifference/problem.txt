@@ -1,0 +1,1 @@
+given 2 non empty arrays return the 2 numbers(one number from each array) which absolute difference is closest to 0.
