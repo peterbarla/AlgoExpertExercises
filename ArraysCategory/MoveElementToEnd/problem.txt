@@ -1,0 +1,1 @@
+Given an array and a number, move all instances of the given number in the array to the end of the array.Mutate the given array.
