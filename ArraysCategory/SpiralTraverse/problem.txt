@@ -1,0 +1,1 @@
+Traverse a given 2D array in a spiral way and print the elements.

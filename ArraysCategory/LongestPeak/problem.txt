@@ -1,0 +1,2 @@
+Given an array find the length of the longest peak sequence in the array.
+A peak sequence is a sequence of numbers which start stricly increasing and then end strictly decreasing and the sequences`s length is min 3.

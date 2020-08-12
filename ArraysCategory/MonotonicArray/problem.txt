@@ -1,0 +1,1 @@
+Given an array decide if it is monotonic or not.
