@@ -1,0 +1,1 @@
+Given an array return the largest range starting and ending index.The numbers in the range don`t need to be sorted or adjacent in the input array.
