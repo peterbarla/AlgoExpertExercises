@@ -1,0 +1,1 @@
+Given an array with min 2 elements return the starting and ending indexes of the subarray that needs to be sorted in order for the given array to become fully sorted ascending.
