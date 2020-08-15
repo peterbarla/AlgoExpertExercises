@@ -1,0 +1,1 @@
+Given a 2D array traverse its elements in a zigzag way.
