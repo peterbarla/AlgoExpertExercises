@@ -1,4 +1,4 @@
-# O(ba ^ 2) time | O(ba) space where b =  number of block and a = number of attributes
+# O(b^2a) time | O(ba) space where b =  number of block and a = number of attributes
 import copy
 def apartmentHunting(blocks, reqs):
     building_distances_for_blocks = []
