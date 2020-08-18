@@ -6,7 +6,7 @@ def apartmentHunting(blocks, reqs):
         building_distances_for_blocks.append(copy.deepcopy(block))
 
     for index, b in enumerate(building_distances_for_blocks, 0):
-        for key, value in b.items():
+        for key, _ in b.items():
             if not blocks[index][key]:
                 b[key] = float('inf')
             else:
@@ -15,7 +15,7 @@ def apartmentHunting(blocks, reqs):
 
 
     for index1, block in enumerate(building_distances_for_blocks, 0):
-        for key, value in block.items():
+        for key, _ in block.items():
             for index2, b in enumerate(blocks, 0):
                 if block[key] != 0:
                     if b[key]:
@@ -26,7 +26,7 @@ def apartmentHunting(blocks, reqs):
     result_index = -1
     for index, b in enumerate(building_distances_for_blocks, 0):
         block_max = float('-inf')
-        for key, value in b.items():
+        for key, _ in b.items():
             if key in reqs:
                 block_max = max(b[key], block_max)
         if block_max < distance:
