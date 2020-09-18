@@ -1,4 +1,4 @@
-
+# O(n^3 + m) time | O(n) space
 def numbersInPi(pi, numbers):
     global number_of_spaces
     tmp = 0
