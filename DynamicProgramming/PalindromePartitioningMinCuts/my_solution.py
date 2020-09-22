@@ -2,7 +2,7 @@
 def palindromePartitioningMinCuts(string):
     cuts = [float('inf') for i in range(len(string))]
     palindromes = [False for i in range(len(string))]
-    cuts[0] = 1
+    cuts[0] = 1       
 
     for i in range(1, len(string)):
         for j in range(0, i):
