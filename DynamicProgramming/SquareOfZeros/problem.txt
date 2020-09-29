@@ -1,0 +1,4 @@
+
+  Write a function that takes in a square-shaped n x n two-dimensional array of
+  only 1s and 0s and returns a boolean representing whether the input matrix
+  contains a square whose borders are made up of only 0s.
