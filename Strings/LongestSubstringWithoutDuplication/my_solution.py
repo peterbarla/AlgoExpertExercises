@@ -1,3 +1,4 @@
+
 def longestSubstringWithoutDuplication(string):
     cache = {}
     longest_substr = []
