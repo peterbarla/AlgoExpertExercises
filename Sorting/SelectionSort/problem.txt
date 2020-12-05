@@ -1,0 +1,1 @@
+Given an array write a function which returns the arrays sorted form with the selection sort algorithm.
