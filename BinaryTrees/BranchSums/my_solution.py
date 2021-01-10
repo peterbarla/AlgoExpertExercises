@@ -16,7 +16,7 @@ def calculateSum(root, currSum: float, sums: list):
 
     currSum += root.value
     if root.left == None and root.right == None:
-        return currSum
+        return sums.append(currSum)
 
     calculateSum(root.left, currSum, sums)
     calculateSum(root.right, currSum, sums)
