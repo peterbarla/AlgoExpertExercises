@@ -1,3 +1,4 @@
+# This is the class of the input root. Do not edit it.
 class BinaryTree:
     def __init__(self, value):
         self.value = value
@@ -16,7 +17,7 @@ def calculateSum(root, currSum: float, sums: list):
 
     currSum += root.value
     if root.left == None and root.right == None:
-        return sums.append(currSum)
+        sums.append(currSum)
 
     calculateSum(root.left, currSum, sums)
     calculateSum(root.right, currSum, sums)
