@@ -1,0 +1,1 @@
+Given a binary tree calculate the sum of the depths for each node from the root.
