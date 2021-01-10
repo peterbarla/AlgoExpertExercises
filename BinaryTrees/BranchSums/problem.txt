@@ -1,0 +1,1 @@
+Given a binary tree write a function that return a list with the tree`s every branch sum.
