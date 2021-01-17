@@ -1,0 +1,1 @@
+Given a binary tree write a function which inverts the tree.By inverting we mean to swap every left node in the tree with it`s corresponding right node.
