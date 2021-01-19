@@ -1,0 +1,1 @@
+Write a function that takes in a sorted list and an integer and use the Binary Search algorithm to find the target integer in the sorted list and return it`s index or -1 if it`s not found.
