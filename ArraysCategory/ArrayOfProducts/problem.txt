@@ -1,0 +1,2 @@
+Given an array with integers write a function that returns a list with the same length and each element of the list
+should be the product of the elements from the input list except the element on the current index.
