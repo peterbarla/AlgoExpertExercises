@@ -1,0 +1,1 @@
+Given a non empty list with integers and each integer represents a query`s waiting time calculate the minimum waiting time so the queries in the list need to wait the minimum amount of time.
