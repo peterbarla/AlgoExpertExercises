@@ -1,0 +1,2 @@
+Given a string write a function that returns a list of all the valid IP addresses that can be generated out of the given string.
+Max string length is 12.
